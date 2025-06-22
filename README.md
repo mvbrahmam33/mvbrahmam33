@@ -6,7 +6,7 @@
   <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 </p>
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="230"/>
 
 <p><em>
 🎓 Electrical Engineering Undergraduate at <a href="https://svnit.ac.in" target="_blank">SVNIT Surat</a>  
